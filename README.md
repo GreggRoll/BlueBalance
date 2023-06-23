@@ -38,7 +38,7 @@ Project tasks
 * #TODO: Find model for risk management
 * #TODO: Find data sets
   * historical fish populations
-  * water temperatures
+  * water temperatures/acidity
   * fish landing/consumption
 * #TODO: Find Dashboards to model after
 * #TODO: Find Python libraries that may exist
