@@ -33,9 +33,9 @@ Documenting our work process, the choices we made, the performance of our models
 Prepare a presentation to showcase the project, explain how to use the dashboard, and discuss findings.
 
 Project tasks
-#TODO: Find model for fish prediction
-#TODO: Find model for risk management
-#TODO: Find data sets
-#TODO: Find Dashboards to model after
-#TODO: Find Python libraries that may exist
-#TODO: Find literature
+*#TODO: Find model for fish prediction
+*#TODO: Find model for risk management
+*#TODO: Find data sets
+*#TODO: Find Dashboards to model after
+*#TODO: Find Python libraries that may exist
+*#TODO: Find literature
