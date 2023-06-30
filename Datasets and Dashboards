@@ -1,0 +1,43 @@
+DATASETS
+https://oceanadapt.rutgers.edu/
+- depth and latitude data per species
+
+
+DASHBOARD EXAMPLES
+
+https://live.telemetry.fish/
+- individual fish tracking
+- cumululative movement of all individual species. y-axis meters x-axis time
+- swimming speed (m/s)
+- depth
+- summary plots include activity interpolated over time of day and date
+
+
+https://www.fishangler.com/
+- map layers that show terrain, satellite, hybrid
+- 7-day marine forecasts with wind, wave, and water temperatures
+- Real time NOAA marine buoy & USGS inland station monitoring with tidal prediction, water flow & water level forecasts
+- social media aspect related to fishing 
+
+
+https://www.fishtrack.com/fishing-charts
+- sea surface temperature 
+- chlorophyll
+- sea surface height
+- bathymetry (measurement of depth)
+- currents direction
+
+https://globalfishingwatch.org/map/index?latitude=40.715413806326296&longitude=-71.43416691919549&zoom=7.363975722347628&start=2023-03-27T00%3A00%3A00.000Z&end=2023-06-27T00%3A00%3A00.000Z
+- shows apparent fishing effort using vessel monitoring and automatic identification
+- "Global Fishing Watch uses data about a vessel’s identity, type, location, speed, direction and more that is broadcast using the Automatic Identification System (AIS) 
+and collected via satellites and terrestrial receivers. AIS was developed for
+safety/collision-avoidance. Global Fishing Watch analyzes AIS data collected 
+from vessels that our research has identified as known or possible commercial
+fishing vessels, and applies a fishing presence algorithm to determine 
+“apparent fishing activity” based on changes in vessel speed and direction."
+- uses MPA reference layers from World Database on Protected Areas
+
+
+https://www.arcgis.com/apps/dashboards/0a99c09a240745b39a378fe628b6c1a1
+- species selector
+- migration distance of individual fish
