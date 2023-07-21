@@ -43,3 +43,10 @@ Project tasks
 * #TODO: Find Dashboards to model after
 * #TODO: Find Python libraries that may exist
 * #TODO: Find literature
+
+Taskings
+Greg - Data, Dashboards
+Kaushik - Tableau interface, logos, production graphics
+Carson - Dashboard, data collection, financial lobbying piece 
+Kim - Modeling of fisheries 
+Chris - data collection
