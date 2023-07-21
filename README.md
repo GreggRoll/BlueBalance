@@ -45,8 +45,8 @@ Project tasks
 * #TODO: Find literature
 
 Taskings
-Greg - Data, Dashboards
-Kaushik - Tableau interface, logos, production graphics
-Carson - Dashboard, data collection, financial lobbying piece 
-Kim - Modeling of fisheries 
+* Greg - Data, Dashboards
+* Kaushik - Tableau interface, logos, production graphics
+* Carson - Dashboard, data collection, financial lobbying piece 
+* Kim - Modeling of fisheries 
 Chris - data collection
