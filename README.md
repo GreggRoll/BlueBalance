@@ -3,6 +3,11 @@ KBR Hackathon 2023
 
 Harnessing Data to Safeguard Our Seas
 
+
+![Alt text](image.png) \
+![Alt text](image-1.png) \
+
+
 Project Steps
 
 1. Data Collection and Cleaning:
